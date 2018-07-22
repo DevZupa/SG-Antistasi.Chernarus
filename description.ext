@@ -1,13 +1,13 @@
 #include "defines.hpp"
 #include "dialogs.hpp"
 
-author="Barbolani, ported by Evoke";
-OnLoadName = "Liberators of Chernarus";
+author="Barbolani, ported by Evoke, edit by Zupa";
+OnLoadName = "SG - Liberators of Chernarus";
 OnLoadMission = "Things that must be done...";
-loadScreen = "pic.JPG";
+loadScreen = "sg_loadscreen.jpg";
 
 overviewText = "Be the Resistance Leader. Fight against a superior enemy in technology, number, assets and vehicles. Use guerrilla tactics in a totally dynamic world, with around 18 sidemissions, everywhere, anytime, anything.";
-overviewPicture = "pic.jpg";
+overviewPicture = "sg_loadscreen.jpg";
 
 allowFunctionsLog = 1;
 enableDebugConsole = 1;
